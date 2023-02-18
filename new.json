@@ -1,0 +1,12 @@
+{	
+	"Name":"Pavlo",
+	"Surname":"Khomych",
+	"age":20,
+	"Pet":{
+		"Pet_type":"cat",
+		"Pet_name":"Masya",
+		"Pet_age":3
+		},
+	"Salary":"700$"
+
+}
