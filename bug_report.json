@@ -1,4 +1,5 @@
 {
+
     "id":"1",
     "Summary":"Switcher's center exceeds the boundaries in the Cookies Settings block in the footer",
     "Priority":"Medium",
@@ -12,5 +13,6 @@
                           "5. Pay attention to the two switchers"
                          ],
     "Actual result":"Switcher's center exceeds the boundaries in the Cookies Settings block in the footer",
-    "Expected result":"Switcher's center is in the boundaries in the Cookies Settings block in the footer",
+    "Expected result":"Switcher's center is in the boundaries in the Cookies Settings block in the footer"
+
 }
