@@ -1,9 +1,9 @@
-# Homework .JSON
+# <p style="text-align: center;"> Homework .JSON </p>
 
-| Задание | Решение |
-|---------- |:------------:|
+| <p style="text-align: center;">Задание</p> |<p style="text-align: center;">Решение</p> |
+|:---------- |:------------:|
 |1. Создать внешний репозиторий c названием JSON. | Во вкладке **Repositories** кнопка **New** > ввести название репозитория > отметить радио баттон **Public** > добавить **Readme file** > **Create repository**
-|2. Клонировать репозиторий JSON на локальный компьютер. | `git clone` https://github.com/pkhomych/JSON.git 
+|2. Клонировать репозиторий JSON на локальный компьютер. | `git clone` https://github.com/pkhomych/JSON.git |
 |3. Внутри локального JSON создать файл “new.json”. | `touch` new.json
 |4. Добавить файл под гит. | `git add` new.json
 |5. Закоммитить файл. | `git commit -m "new.json"`
